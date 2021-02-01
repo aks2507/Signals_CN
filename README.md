@@ -1,4 +1,4 @@
-# Signals_CN
+# Signals_CN_187203_Abhishek_Kumar_Shukla
 These two are the codes for the question given in class. I have used two shared memories and SIGUSR1 and SIGUSR2 to manage the signals. To see the output correctly, please open both the programs in separate terminals.
 Type in P2 first, after a wait of 2 seconds, when "Me:" pops up
 Then you will see that text received in P1
